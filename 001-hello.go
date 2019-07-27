@@ -1,5 +1,7 @@
 package main
 
+// test a git update
+
 import "fmt"
 
 func main() {
